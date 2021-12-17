@@ -18,6 +18,7 @@ var die
 var jump
 var checkPoint
 var velocidade=0
+var teste
 
 function preload(){ // funç~;ao que carregar todas as imagens e animações
   trex_running = loadAnimation("trex1.png", "trex3.png", "trex4.png");
